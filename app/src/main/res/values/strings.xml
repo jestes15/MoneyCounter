@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoneyCounter</string>
+    <string name="firstTextVal"># of $20</string>
+</resources>
